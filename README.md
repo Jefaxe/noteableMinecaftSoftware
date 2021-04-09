@@ -8,7 +8,7 @@
 4. JEI Just Enough Items (mezz) (Forge 1.8 - Forge 1.12.2/1.16.5) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)
 
 6. REI Roughly Enough Items (shedanial) (Fabric 1.14+) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
-7. REI Forge Roughly Enough Items (shedanial) (Forge 1.16) (Dead, theres JEI) [CurseForge]((https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge)
+7. REI Forge Roughly Enough Items (shedanial) (Forge 1.16) (Dead, theres JEI) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items-forge)
 
 8. AEI Almost Enough Items (ZenDrava) (Rift 1.13 (not .2)) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/almost-enough-items)
 
