@@ -1,4 +1,4 @@
-#Mods inspired by Too Many Items
+## Mods inspired by Too Many Items
 
 1. TMI Too Many Items (Original) (Jar Mod) [Installation](https://ftb.fandom.com/wiki/TooManyItems#How_to_install) | [Jar Modding in MultiMC (No meta-inf)](https://www.youtube.com/watch?v=8nJ-hq8rxBg)
 
@@ -12,7 +12,7 @@
 
 8. AEI Almost Enough Items (ZenDrava) (Rift 1.13 (not .2)) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/almost-enough-items)
 
-##Mods inspired by NEI's name
+## Mods inspired by NEI's name
 
 1. NEI Not Enough Items (Original name) (Forge 1.7.10) [Original Repo](https://github.com/Chicken-Bones/NotEnoughItems)
 
@@ -21,7 +21,7 @@
 3. NEID Not Enough Item IDs (UNSTABLE) (fewizz) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/notenoughids)
 4. JEIDs Just ENough Item IDs (GOOD0 (DimensionalDevelopment) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jeid)
 
-##Elements
+## Elements
 
 1. Sodium (Fabric 1.16+) (CaffeinMC) [Modrinth](https://modrinth.com/mod/sodium)
 2. Lithium (Fabric 1.16+) (CaffeinMC) [Modrinth](https://modrinth.com/mod/lithium)
@@ -34,7 +34,7 @@
 
 7. Thallium (Fabric 1.16) (isaiahpatton) [SCAM](https://web.archive.org/web/20200803092849/https://github.com/IsaiahPatton/thallium/issues/3) [Wayback Curse](https://web.archive.org/web/20210107055006/https://www.curseforge.com/minecraft/mc-mods/thallium/)
 
-##Named after some kind of material
+# #Named after some kind of material
 
 1. fabric / fabric-loader (FabricMC) [homepage](fabricmc.net)
 2. Loom (FabricMC) [Repo](https://github.com/fabricmc/fabric-loom)
@@ -46,3 +46,4 @@
 
 7. Anvil -> Forge / MinecraftForge [Homepage](http://minecraftforge.net/)
 
+8. Quilt (Fabric Fork) [homepage](https://quilt.org)
