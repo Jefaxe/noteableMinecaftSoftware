@@ -46,4 +46,4 @@
 
 7. Anvil -> Forge / MinecraftForge [Homepage](http://minecraftforge.net/)
 
-8. Quilt (Fabric Fork) [homepage](https://quilt.org)
+8. Quilt (Fabric Fork) [homepage](https://quiltmc.rg)
